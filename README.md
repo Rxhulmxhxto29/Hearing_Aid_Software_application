@@ -91,7 +91,40 @@ This Android application transforms your smartphone into a powerful hearing aid 
 
 ## 📱 Screenshots
 
-> *Note: Add screenshots of your app in the `screenshots/` directory and update this section*
+### Main Interface
+The primary control panel with all essential features at your fingertips.
+
+<p align="center">
+  <img src="screenshots/01_main_interface.jpeg" alt="Main Interface" width="300"/>
+</p>
+
+### Dynamic Parametric Equalizer
+Unlimited custom EQ filters with precise frequency, gain, and Q factor control.
+
+<p align="center">
+  <img src="screenshots/02_equalizer_controls.jpeg" alt="Equalizer Controls" width="300"/>
+</p>
+
+### Preset Management System
+Save, load, and manage unlimited audio presets for different environments.
+
+<p align="center">
+  <img src="screenshots/03_preset_management.jpeg" alt="Preset Management" width="300"/>
+</p>
+
+### Noise Canceling Features
+Adaptive noise canceling with strength control and real-time status display.
+
+<p align="center">
+  <img src="screenshots/04_noise_canceling.jpeg" alt="Noise Canceling" width="300"/>
+</p>
+
+### Real-time Visualization
+Waveform and spectrum analyzer showing live audio processing.
+
+<p align="center">
+  <img src="screenshots/05_visualization.jpeg" alt="Visualization" width="300"/>
+</p>
 
 ---
 
