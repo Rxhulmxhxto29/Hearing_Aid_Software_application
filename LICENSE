@@ -1,16 +1,24 @@
 MIT License
 
 Copyright (c) 2026 Rahul Mohoto
+All Rights Reserved.
+
+PATENT NOTICE: This software contains patented technology. See PATENT.md for details.
+Commercial use of patented features requires a separate commercial license.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+in the Software without restriction for NON-COMMERCIAL USE ONLY, including 
+without limitation the rights to use, copy, modify, merge, publish, distribute, 
+sublicense, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The above copyright notice, this permission notice, and the patent notice 
+shall be included in all copies or substantial portions of the Software.
+
+COMMERCIAL USE RESTRICTION: Any commercial use, including but not limited to
+selling products or services based on this Software, requires a separate 
+commercial license agreement. Contact the copyright holder for licensing terms.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

@@ -6,6 +6,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![API](https://img.shields.io/badge/API-21%2B-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Patent](https://img.shields.io/badge/Patent-Protected-red?style=for-the-badge)
+![Copyright](https://img.shields.io/badge/Copyright-2026-orange?style=for-the-badge)
 
 **A professional-grade Android hearing aid application with real-time audio processing, noise canceling, and customizable parametric equalizer.**
 
@@ -18,6 +20,8 @@
 ## 📋 Overview
 
 This Android application transforms your smartphone into a powerful hearing aid device with ultra-low latency audio processing. Built with Kotlin, it offers advanced features including dynamic parametric equalization, spectral subtraction-based noise canceling, and customizable audio presets tailored for various hearing needs.
+
+> **⚠️ IMPORTANT:** This software contains patented technology and is protected by copyright. See [COPYRIGHT](COPYRIGHT.md) and [PATENT](PATENT.md) for details. Commercial use requires a separate license.
 
 ### ✨ Key Highlights
 
@@ -365,9 +369,26 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-## 📄 License
+## 📄 License & Legal
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Copyright Notice
+
+**Copyright © 2026 Rahul Mohoto. All Rights Reserved.**
+
+This software and its contents are protected by copyright law. See [COPYRIGHT.md](COPYRIGHT.md) for complete copyright information.
+
+### Patent Protection
+
+This software incorporates patented technology. See [PATENT.md](PATENT.md) for detailed patent information and licensing terms.
+
+**Key Points:**
+- ✅ Non-commercial use permitted under MIT License
+- ❌ Commercial use requires separate licensing agreement
+- ⚖️ Patent rights strictly enforced
+
+### MIT License (Non-Commercial Use)
+
+This project is licensed under the MIT License for non-commercial use only - see the [LICENSE](LICENSE) file for details.
 
 ```
 MIT License
@@ -392,6 +413,21 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+### Commercial Licensing
+
+For commercial use, OEM integration, or licensing inquiries, contact:
+
+**Rahul Mohoto**  
+GitHub: [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)  
+Repository: [Hearing Aid Software Application](https://github.com/Rxhulmxhxto29/Hearing_Aid_Software_application)
+
+### Legal Documents
+
+- 📜 [COPYRIGHT.md](COPYRIGHT.md) - Complete copyright information
+- 🔒 [PATENT.md](PATENT.md) - Patent details and licensing terms
+- ⚖️ [LICENSE](LICENSE) - MIT License text
+- 🤝 [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
 
 ---
 
