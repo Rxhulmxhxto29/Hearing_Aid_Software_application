@@ -2,11 +2,11 @@
 
 ## Patent Information
 
-This software incorporates patented technology owned by Rahul Mohoto.
+This software incorporates patented technology owned by RAHUL MAHATO.
 
 ### Patent Details
 
-**Patent Holder:** Rahul Mohoto  
+**Patent Holder:** RAHUL MAHATO  
 **Patent Status:** Patented Technology  
 **Filing Date:** [Insert Filing Date]  
 **Grant Date:** [Insert Grant Date]  
@@ -78,7 +78,7 @@ Unauthorized commercial use of the patented technologies constitutes patent infr
 
 ## Prior Art Declaration
 
-This patent is based on original research and development by Rahul Mohoto. All prior art has been properly disclosed and addressed during the patent application process.
+This patent is based on original research and development by RAHUL MAHATO. All prior art has been properly disclosed and addressed during the patent application process.
 
 ## International Protection
 
@@ -88,7 +88,7 @@ Patent protection may be sought or obtained in multiple jurisdictions. Users out
 
 For commercial licensing inquiries or patent-related questions:
 
-**Patent Holder:** Rahul Mohoto  
+**Patent Holder:** RAHUL MAHATO  
 **Email:** [Insert Contact Email]  
 **GitHub:** [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)  
 

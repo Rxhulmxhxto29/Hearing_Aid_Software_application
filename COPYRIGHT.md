@@ -1,19 +1,19 @@
 # COPYRIGHT NOTICE
 
-Copyright © 2026 Rahul Mohoto. All Rights Reserved.
+Copyright © 2026 RAHUL MAHATO. All Rights Reserved.
 
 ## Proprietary Rights
 
 This software and associated documentation files (the "Software") are protected by:
 
 ### Copyright
-- **Copyright Holder:** Rahul Mohoto
+- **Copyright Holder:** RAHUL MAHATO
 - **Copyright Year:** 2026
 - **Registration Status:** Registered
 
 ### Patent Protection
 - **Patent Status:** Patented
-- **Patent Holder:** Rahul Mohoto
+- **Patent Holder:** RAHUL MAHATO
 - **Jurisdiction:** [Insert applicable jurisdictions]
 
 ### Intellectual Property Rights
@@ -26,7 +26,7 @@ All rights, title, and interest in and to the Software, including but not limite
 - Documentation and specifications
 - Trademarks and service marks
 
-are owned exclusively by Rahul Mohoto.
+are owned exclusively by RAHUL MAHATO.
 
 ## Licensing
 
@@ -58,7 +58,7 @@ The following activities are strictly prohibited without express written consent
 
 For licensing inquiries, patent information, or permissions:
 
-**Copyright Holder:** Rahul Mohoto  
+**Copyright Holder:** RAHUL MAHATO  
 **GitHub:** [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)  
 **Repository:** [Hearing Aid Software Application](https://github.com/Rxhulmxhxto29/Hearing_Aid_Software_application)
 

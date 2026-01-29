@@ -406,7 +406,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ### Copyright Notice
 
-**Copyright © 2026 Rahul Mohoto. All Rights Reserved.**
+**Copyright © 2026 RAHUL MAHATO. All Rights Reserved.**
 
 This software and its contents are protected by copyright law. See [COPYRIGHT.md](COPYRIGHT.md) for complete copyright information.
 
@@ -426,7 +426,7 @@ This project is licensed under the MIT License for non-commercial use only - see
 ```
 MIT License
 
-Copyright (c) 2026 Rahul Mohoto
+Copyright (c) 2026 RAHUL MAHATO
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -451,7 +451,7 @@ SOFTWARE.
 
 For commercial use, OEM integration, or licensing inquiries, contact:
 
-**Rahul Mohoto**  
+**RAHUL MAHATO**  
 GitHub: [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)  
 Repository: [Hearing Aid Software Application](https://github.com/Rxhulmxhxto29/Hearing_Aid_Software_application)
 
@@ -466,7 +466,7 @@ Repository: [Hearing Aid Software Application](https://github.com/Rxhulmxhxto29/
 
 ## 👤 Author
 
-**Rahul Mohoto**
+**RAHUL MAHATO**
 
 - GitHub: [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)
 - Repository: [Hearing Aid Software Application](https://github.com/Rxhulmxhxto29/Hearing_Aid_Software_application)
